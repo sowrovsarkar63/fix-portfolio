@@ -13,7 +13,7 @@ export default function Hero() {
               width={200}
               height={200}
             />
-            <h4 className="font-semibold mb-4">Md Sowrov Sarkar</h4>
+            <h4 className="font-semibold mb-3 mt-2">Md Mahabubul Hasan Sowrov </h4>
             <h1 className="text-5xl font-bold">
               <span className="text-red-600 font-extrabold ">Hello</span> there
             </h1>
